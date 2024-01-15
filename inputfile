@@ -1,0 +1,10 @@
+mass 63.5
+latticeconstant 3.61
+size 19
+springconstant 3.5
+timestep 1.0
+maxstep 600
+temperature 300.0
+dumprate 5
+wavevector -0.84302
+amplitude 0.361
